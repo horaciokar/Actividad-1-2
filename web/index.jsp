@@ -12,6 +12,7 @@
         <title>Miembros del grupo</title>
     </head>
     <body>
+        
         <h1>Miembros del grupo</h1>
         
         <form action="miembros.jsp" method="post">
